@@ -26,3 +26,19 @@ let myObj= {
     name:"patil",
     age:24,
 }
+
+
+
+// #######################STACK&HEAP##############33
+
+// STACK (premitive), Heap(non premitive)
+
+let myFarmhouse = "vardhankalambi"
+
+let name = patildhiraj
+ console.log(name);
+
+ let user = {
+    email:"vardhan@gmail.com",
+    user: "vardhan"
+ }
